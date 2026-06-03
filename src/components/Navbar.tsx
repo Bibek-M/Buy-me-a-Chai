@@ -2,7 +2,7 @@ import chai from '../assets/chai.png'
 import { FiGithub } from "react-icons/fi";
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center px-15">
       <div className="left flex justify-center items-center">
         <img
           src={chai}
