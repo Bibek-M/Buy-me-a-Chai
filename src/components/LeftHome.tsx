@@ -4,7 +4,7 @@ import {Lock} from 'lucide-react';
 import AmtCards from './AmtCards';
 const LeftHome = () => {
   return (
-    <div className="w-4/7 border-4 pr-10">
+    <div className="w-4/7">
       <h2 className="text-7xl font-bold">
         Fuel My Creativity with
         <h2 className="h-19 inline-block align-baseline text-amber-800">
